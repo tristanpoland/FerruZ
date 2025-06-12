@@ -27,7 +27,7 @@ FerruZ is a command-line tool for simple and efficient management of DayZ standa
 
 ## Installation
 
-1. Download the latest FerruZ release for your platform from the [Releases page](https://github.com/username/ferruz/releases).
+1. Download the latest FerruZ release for your platform from the [Releases page](https://github.com/tristanpoland/ferruz/releases).
 
 2. Make the binary executable:
    ```bash
